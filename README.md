@@ -62,7 +62,7 @@ This project demonstrates real-world data analysis and Excel dashboarding skills
 
 Dashboard Preview
 
-![Dashboard Preview](Screenshot 2025-07-02 203828.png)
+[Dashboard Preview](Screenshot_Dashboard.png)
 
 ---
 
